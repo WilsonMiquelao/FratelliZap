@@ -20,4 +20,4 @@ Flet (frontend + backend visual)
 
 Opcionalmente inspirada na experiência visual do Flutter
 
-Renderizado utilizando o Render!
+
