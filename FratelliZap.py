@@ -75,5 +75,6 @@ def main(pagina: ft.Page):
     pagina.add(botao_iniciar)
 
 # Executar o aplicativo
-ft.app(target=main, port=8080)
+ft.app(target=main, view=ft.WEB_BROWSER)
+
 
